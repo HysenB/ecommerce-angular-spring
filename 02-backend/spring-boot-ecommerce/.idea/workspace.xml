@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65c52146-86c3-475d-8188-086c6e253010" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../01-starter-files/angular-image-assets/images/products/placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-starter-files/db-scripts/01-create-user.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-starter-files/db-scripts/02-create-products.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-starter-files/spring-boot-properties/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hysenberisha/ecommerce/SpringBootEcommerceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hysenberisha/ecommerce/config/MyDataRestConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hysenberisha/ecommerce/dao/ProductCategoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hysenberisha/ecommerce/dao/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hysenberisha/ecommerce/entity/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hysenberisha/ecommerce/entity/ProductCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/hysenberisha/ecommerce/SpringBootEcommerceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/src/app/common/product.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/src/app/common/product.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/src/app/components/product-list/product-list.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/src/app/components/product-list/product-list.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/src/app/components/product-list/product-list.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/src/app/components/product-list/product-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/src/app/services/product.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/src/app/services/product.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-frontend/angular-ecommerce/tsconfig.spec.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="28WYtkgdLTNQeM3GYORWbLbmEEZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringBootEcommerceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hysenberisha.ecommerce.SpringBootEcommerceApplication" />
+      <module name="spring-boot-ecommerce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hysenberisha.ecommerce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringBootEcommerceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65c52146-86c3-475d-8188-086c6e253010" name="Changes" comment="" />
+      <created>1651334031597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651334031597</updated>
+    </task>
+    <servers />
+  </component>
+</project>
