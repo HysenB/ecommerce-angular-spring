@@ -1,3 +1,4 @@
+import { CartService } from 'src/app/services/cart.service';
 import { ECommerceValidators } from './../../validators/ecommerce-validators';
 import { ECommerceFormService } from './../../services/ecommerce-form.service';
 import { Component, OnInit } from '@angular/core';
@@ -26,9 +27,13 @@ export class CheckoutComponent implements OnInit {
   billingAddressStates: State[] = [];
   
 
-  constructor(private formBuilder: FormBuilder, private eCommerceFormService: ECommerceFormService) { }
+  constructor(private formBuilder: FormBuilder, 
+    private eCommerceFormService: ECommerceFormService,
+    private cartService: CartService) { }
 
   ngOnInit(): void {
+
+    this.reviewCardDetails();
 
     this.checkoutFormGroup = this.formBuilder.group({
       customer: this.formBuilder.group({
@@ -106,6 +111,19 @@ export class CheckoutComponent implements OnInit {
     )
 
   }
+  reviewCardDetails() {
+    
+    // subscribe to cartService.totalQuantity
+    this.cartService.totalQuantity.subscribe(
+      totalQuantity => this.totalQuantity = totalQuantity
+    );
+
+
+    // subscribe to cartService.totalPrice
+    this.cartService.totalPrice.subscribe(
+      totalPrice => this.totalPrice = totalPrice
+    );
+  }
 
   onSubmit(){
     console.log("Handling the submit button")
@@ -121,7 +139,8 @@ export class CheckoutComponent implements OnInit {
     console.log("The shipping address state is " + this.checkoutFormGroup.get('shippingAddress')?.value.state.name);
 
   }
-// Customer
+
+  // Customer
   get firstName(){  return this.checkoutFormGroup.get('customer.firstName'); }
   get lastName(){  return this.checkoutFormGroup.get('customer.lastName'); }
   get email(){  return this.checkoutFormGroup.get('customer.email'); }
